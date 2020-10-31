@@ -148,7 +148,7 @@ span > img
 }
 .nav-bar2
 {
-	margin-top: 70px;
+	margin-top: 60px;
 	z-index: 1;
 	background-color: #00b3b3;
 }
@@ -206,7 +206,7 @@ span > img
 
 .nav-bar3
 {
-	margin-top: 70px;
+	margin-top: 60px;
 	z-index: 0;
 	background-color: #33ccff;
 }
@@ -247,7 +247,7 @@ span > img
 
 .nav-bar4
 {
-	margin-top: 70px;
+	margin-top: 60px;
 	z-index: 0;
 	background-color: #cc66ff;
 }
